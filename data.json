@@ -1,0 +1,17 @@
+{
+    "movies": [
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        }
+    ],
+    "serials": []
+}
