@@ -1,0 +1,204 @@
+{
+    "movies": [
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        },
+        {
+            "title": "1The Shawshank Redemption",
+            "age": 18,
+            "genre": "Drama",
+            "duration": 120
+        }
+    ],
+    "serials": [
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        },
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        },
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        },
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        },
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        },
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        },
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        },
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        },
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        },
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        },
+        {
+            "title": "Friends",
+            "age": 16,
+            "genre": "Drama",
+            "seasons": 6
+        }
+    ]
+}
